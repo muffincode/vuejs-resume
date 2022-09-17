@@ -1,0 +1,204 @@
+[
+  {
+    "title": "Header",
+    "id": "header",
+    "entries": [
+      {
+        "title": "Your Name",
+        "subtitle": "Your Title",
+        "description": "Your cool tagline",
+        "image": "https://picsum.photos/200"
+      }
+    ],
+    "styling": {
+      "position": "header"
+    }
+  },
+  {
+    "title": "Contact",
+    "id": "contact",
+    "entries": [
+      {
+        "title": "Phone #"
+      },
+      {
+        "title": "email@gmail.com"
+      },
+      {
+        "title": "Address<br/>Continued"
+      }
+    ],
+    "styling": {
+      "position": "side",
+      "blockType": "duoline",
+      "customBlockCss": {},
+      "customElementCss": {
+        "titleCss": {"fontWeight": "normal"},
+        "descriptionCss": {}
+      }
+    }
+  },
+  {
+    "title": "Tools",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "id": "skills",
+    "entries": [
+      {
+        "title": "Agile methodology",
+        "description": "Scrum, Kanban"
+      },
+      {
+        "title": "Project Management",
+        "description": "Trello, Asana, Monday"
+      },
+      {
+        "title": "Wake & communication",
+        "description": "Medium, ProductHunt, Slack"
+      },
+      {
+        "title": "Web tech",
+        "description": "HTML, CSS, Javascript, SQL"
+      },
+      {
+        "title": "Other",
+        "description": "InVision, Photoshop, Facebook Ads, Google Analytics, ..."
+      }
+    ],
+    "styling": {
+      "position": "side",
+      "blockType": "duoline",
+      "customBlockCss": {},
+      "customElementCss": {
+        "titleCss": {},
+        "descriptionCss": {}
+      }
+    }
+  },
+  {
+    "title": "Passions",
+    "description": "",
+    "id": "hobbies",
+    "entries": [
+      {
+        "title": "📷 Photography",
+        "description": "<a href='instagram.com'>Instagram account</a>"
+      },
+      {
+        "title": "🤘 Music",
+        "description": "Big metal fan"
+      },
+      {
+        "title": "🎲 Games",
+        "description": "A whole lot of them"
+      },
+      {
+        "title": "⚔️ Scandinavian history",
+        "description": "From the first viking raids to the christianisation of Scandinavia."
+      }
+    ],
+    "styling": {
+      "position": "side",
+      "blockType": "duoline",
+      "customBlockCss": {},
+      "customElementCss": {
+        "titleCss": {},
+        "descriptionCss": {}
+      }
+    }
+  },
+  {
+    "title": "Links",
+    "id": "links",
+    "description": "",
+    "entries": [
+      { "title" : "<a href=\"https://www.linkedin.com/\">LinkedIn</a>" },
+      { "title" : "<a href=\"https://medium.com/\">Medium</a>" },
+      { "title" : "<a href=\"https://github.com/\">Github</a>" }
+    ],
+    "styling": {
+      "position": "side",
+      "blockType": "inline-list",
+      "customBlockCss": {
+        "titleCss": { "display": "none" },
+        "descriptionCss": {}
+      },
+      "customElementCss": {
+        "titleCss": {},
+        "descriptionCss": {}
+      }
+    }
+  },
+  {
+    "title": "Work experience",
+    "id": "workExperience",
+    "entries": [
+      {
+        "title": "Company",
+        "subtitle": "Position",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "detail": "March 2018 - July 2020"
+      },
+      {
+        "title": "Company",
+        "subtitle": "Position",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "detail": "March 2017 - February 2018"
+      },
+      {
+        "title": "Company‍",
+        "subtitle": "Position",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "detail": "Sept. 2016 - March 2017"
+      }
+    ],
+    "styling": {
+      "position": "main",
+      "blockType": "apostrophe",
+      "customBlockCss": {},
+      "customElementCss": {
+        "titleCss": {},
+        "descriptionCss": {}
+      }
+    }
+
+  },
+  {
+    "title": "Education",
+    "id": "education",
+    "entries": [
+      {
+        "title": "Degree",
+        "subtitle": "Location (FR)",
+        "description": "Something about your classes",
+        "detail": "2016 - 2017"
+      },
+      {
+        "title": "Degree",
+        "subtitle": "Location (GB)",
+        "description": "Something about your classes",
+        "detail": "2014 - 2016"
+      },
+      {
+        "title": "Degree",
+        "subtitle": "Location (GER)",
+        "description": "Something about your classes",
+        "detail": "2013 - 2014"
+      },
+      {
+        "title": "Degree",
+        "subtitle": "Location (SP)",
+        "description": "Something about your classes",
+        "detail": "2010 - 2013"
+      }
+    ],
+    "styling": {
+      "position": "main",
+      "blockType": "apostrophe",
+      "customBlockCss": {},
+      "customElementCss": {
+        "titleCss": {},
+        "descriptionCss": {}
+      }
+    }
+  }
+]
